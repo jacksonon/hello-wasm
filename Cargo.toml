@@ -1,8 +1,10 @@
 [package]
 name = "hello-wasm"
 version = "0.1.0"
-authors = ["wangjiawei601996 <wangjiawei601996@pwrd.com>"]
-edition = "2018"
+authors = ["wang542413041 <wang542413041@gmail.com>"]
+description = "A cross platform with wasm-pack"
+licence = "MIT/Apache-2.0"
+repository= "https://github.com/wang542413041/hello-wasm"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
